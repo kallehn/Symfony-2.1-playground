@@ -1,0 +1,7 @@
+parameters:
+#    pg_main.example.class: PG\MainBundle\Example
+
+services:
+#    pg_main.example:
+#        class: %pg_main.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+pg_main_homepage:
+    pattern:  /
+    defaults: { _controller: PGMainBundle:Default:index }
